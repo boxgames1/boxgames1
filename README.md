@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on:
-  - [Feedr](feedr.co) as Senior Software Engineer, working in different positions of the field (Backend, Frontend, Native App)
+  - [Feedr](https://feedr.co) as Senior Software Engineer, working in different positions of the field (Backend, Frontend, Native App)
   - Personal side projects
   - Writting a series in Medium about implementing DDD in TS with the functional paradigm.
   
