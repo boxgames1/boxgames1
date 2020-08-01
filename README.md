@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Oli
 
-<!--
-**boxgames1/boxgames1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on:
+  - Feedr.co as Senior Software Engineer, working in different positions of the field (Backend, Frontend, Native App)
+  - Personal side projects
+  - Writting a series in Medium about implementing DDD in TS with the functional paradigm.
+  
+- 🌱 I’m currently learning:
+  - DDD
+  - Data analysis
+  - Python (in the backlog)
+  
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Any exciting project (open source or not). Contact me :) 
+  
+- 📫 How to reach me:
+  - Twitter @oliver_ap
+  - [My personal website](https://oliveralonso.dev/)
+  
