@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning:
   - DDD
-  - Data analysis
+  - Serverles + AWS Lambda functions
   - Python (in the backlog)
   
 - 👯 I’m looking to collaborate on ...
