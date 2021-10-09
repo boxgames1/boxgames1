@@ -2,11 +2,12 @@
 
 
 - 🔭 I’m currently working on:
-  - [Feedr](https://feedr.co) as Senior Software Engineer, working in different positions of the field (Backend, Frontend, Native App)
-  - Personal side projects
-  - Writting a series in Medium about implementing DDD in TS with the functional paradigm.
+  - [Casebook PBC](https://www.casebook.net/) as Senior Software Engineer.
+  - Personal side projects.
+  - Writting in Medium (sometimes).
   
 - 🌱 I’m currently learning:
+  - Rust
   - DDD
   - Serverles + AWS Lambda functions
   - Python (in the backlog)
