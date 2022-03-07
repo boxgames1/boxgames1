@@ -8,6 +8,7 @@
   
 - 🌱 I’m currently learning:
   - Rust
+  - Kafka
   - DDD
   - Serverles + AWS Lambda functions
   - Python (in the backlog)
