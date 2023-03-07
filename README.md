@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on:
-  - [Casebook PBC](https://www.casebook.net/) as Senior Software Engineer.
+  - [90POE](https://www.90poe.io/) as Senior Software Engineer.
   - Personal side projects.
   - Writting in Medium (sometimes).
   
