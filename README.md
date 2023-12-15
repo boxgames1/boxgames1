@@ -7,7 +7,7 @@
   - Writting in Medium (sometimes).
   
 - 🌱 I’m currently learning:
-  - Rust
+  - Go
   - Kafka
   - DDD
   - Serverles + AWS Lambda functions
