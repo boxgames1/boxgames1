@@ -17,6 +17,6 @@
   - Any exciting project (open source or not). Contact me :) 
   
 - 📫 How to reach me:
-  - Twitter @oliver_ap
+  - [Linkedin](https://www.linkedin.com/in/oliverioap)
   - [My personal website](https://oliveralonso.dev/)
   
